@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejemplo de HTML con la etiqueta &lt;picture&gt;</title>
+</head>
+<body>
+
+    <h1>Ejemplo de HTML con la etiqueta &lt;picture&gt;</h1>
+
+    <picture>
+        <!-- Define la imagen para pantallas con un ancho mínimo de 650px -->
+        <source media="(min-width:650px)" srcset="imagenes/imagen.jpeg">
+        <!-- Define la imagen para pantallas con un ancho mínimo de 465px -->
+        <source media="(min-width:465px)" srcset="imagenes/imagen3.jpeg">
+        <!-- Imagen por defecto para pantallas más pequeñas -->
+        <img src="imagenes/imagen2.jpeg" alt="AnuelAA" style="width:auto;">
+    </picture>
+
+</body>
+</html>

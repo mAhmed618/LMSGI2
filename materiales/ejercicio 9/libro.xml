@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<libro>
+    <titulo>HTML5 y CSS3</titulo>
+    <titulo>Domine los estándares de creación de sitios web</titulo>
+    <autor>Christophe Aubry</autor>
+    <editorial>Ediciones Eni</editorial>
+    <isbn>978-2-409-03123-6</isbn>
+    <edicion>2</edicion>
+    <paginas>502</paginas>
+</libro>

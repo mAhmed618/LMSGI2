@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE monarcas SYSTEM "monarcas.dtd">
+<monarcas>
+    <monarca>
+        <nombrre>Isabel I de Castilla</nombrre>
+        <inicio_reinado>1474</inicio_reinado>
+        <fin_reinado>1504</fin_reinado>
+        <dinastia>Trastámara</dinastia>
+    </monarca>
+    <monarca>
+        <nombrre>Fernando II de Aragón</nombrre>
+        <inicio_reinado>1479</inicio_reinado>
+        <fin_reinado>1516</fin_reinado>
+        <dinastia>Trastámara</dinastia>
+    </monarca>
+    <monarca>
+        <nombrre>Carlos I de ESpaña</nombrre>
+        <inicio_reinado>1516</inicio_reinado>
+        <fin_reinado>1556</fin_reinado>
+        <dinastia>Hasburgo</dinastia>
+    </monarca>
+    <monarca>
+        <nombrre>Felipe II de España</nombrre>
+        <inicio_reinado>1556</inicio_reinado>
+        <fin_reinado>1598</fin_reinado>
+        <dinastia>Hasburgo</dinastia>
+    </monarca>
+    <monarca>
+        <nombrre>Isabel II de España</nombrre>
+        <inicio_reinado>1833</inicio_reinado>
+        <fin_reinado>1868</fin_reinado>
+        <dinastia>Borbón</dinastia>
+    </monarca>
+</monarcas>

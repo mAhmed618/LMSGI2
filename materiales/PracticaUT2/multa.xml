@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE multa SYSTEM "multa.dtd" [
+
+]>
+<multa>
+    <informacion_multa>
+        <numEXP>31</numEXP>
+        <fecha>2023/11/10</fecha>
+        <hora>01:33</hora>
+    </informacion_multa>
+    <Datos_Vehiculo>
+        <marca>Aston Martin</marca>
+        <modelo>Vantage</modelo>
+        <matricula>8039 LVJ</matricula>
+    </Datos_Vehiculo>
+    <Datos_Infractor>
+        <nombre>Max Verstappen</nombre>
+        <DNI>45895623T</DNI>
+        <Telefono>956513490</Telefono>
+    </Datos_Infractor>
+    <Infracciones>
+        <Infraccion>
+            <articulo>48</artículo>
+            <tipo>Grave</tipo>
+            <descripcon>circular a 135 km/h, teniendo limitada la velocidad a 120 km/h</descripcon>
+            <puntos>0</puntos>
+            <abonado>Si</abonado>
+            <costes divisa="€">100</costes>
+        </Infraccion>
+        <Infraccion>
+            <articulo>101.1</artículo>
+            <tipo>Grave</tipo>
+            <descripcon>circular en poblado por via insuficientemente iluminada sin llevar encendido el alumbrado</descripcon>
+            <puntos>2</puntos>
+            <abonado>No</abonado>
+            <costes divisa="€">100</costes>
+        </Infraccion>
+        <Importe divisa="€">300</Importe>
+    </Infracciones>
+</multa>

@@ -1,0 +1,25 @@
+{
+    "menu": [
+      {
+        "plato": "ensaladilla mixta",
+        "precio": "2.50€"
+      },
+      {
+        "plato": "tallin Marinero",
+        "precio": "6.00€"
+      },
+      {
+        "plato": "gambas al ajillo",
+        "precio": "3.00€"
+      },
+      {
+        "plato": "gambas al pil-pil",
+        "precio": "3.00€"
+      },
+      {
+        "plato": "bocadillo Filete De Pollo",
+        "precio": "3.00€"
+      }
+    ]
+  }
+  
