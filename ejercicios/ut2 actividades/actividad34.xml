@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fichas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="actividad34.xsd">
+    <ficha numero="1">
+        <nombre>Abdeselam Mohamed Lachiri</nombre>
+        <edad>22</edad>
+    </ficha>
+    <ficha numero="2">
+        <nombre>ILdefonse Rubio Molineiro</nombre>
+        <edad>23</edad>
+    </ficha>
+</fichas>

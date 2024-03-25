@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+    <![CDATA[
+        <html>
+            <head>
+                <meta charset="UTF-8">
+                <title>tim brack, senior art director</title>
+                <meta name="description" content="senior art director &amp; concept creative working for jung von matt.">
+
+                <link href="css/styles.css" rel="stylesheet" type="text/css">
+                <link href="css/animate.css" rel="stylesheet" type="text/css">
+
+                <script type="text/javascript" src="http://code.jquery.com/jquery-1.10.2.js"></script>
+                <script type="text/javascript" src="js/functions.js"></script>
+                <script type="text/javascript" src="js/jquery.onepage-scroll.js"></script>
+
+            </head>
+
+            <body style="">
+                <div id="home" class="animated fadeInUp" style="font-size: 24.1975px;">
+                    hi. my name is <a href="#contact" class="scroll">tim</a>. im an awarded senior art director <a href="#work_wrapper" class="scroll">working</a> for jung von matt.
+                </div>
+                <style>.cryptedmail:after { content: attr(data-name);}</style>
+                <div id="contact" style="height: 968px;">
+                    <h1 style="font-size: 140px;">
+                        you can contact me via 
+                        <a href="#" class="cryptedmail" data-name="mail" data-domain="timbrack" data-tld="de" onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain + '.' + this.dataset.tld; return false;"></a>
+                        or <a href="https://www.linkedin.com/in/tim-brack-341285103" target="_blank">linkedin</a> or <a href="https://www.xing.com/profile/Tim_Brack" target="_blank">xing</a>.
+                    </h1>
+                </div>
+
+                <!-- Resto del código HTML -->
+
+                <script src="js/jquery.fittext.js"></script>
+                <script type="text/javascript">
+                    $("#home").fitText(0.81, { minFontSize: '20px', maxFontSize: '350px' });
+                    $(".work h1").fitText(0.62, { minFontSize: '30px', maxFontSize: '500px' });
+                    $(".work h2").fitText(0.45 , { minFontSize: '30px', maxFontSize: '500px' });
+                    $("#contact h1").fitText(0.80, { minFontSize: '140px', maxFontSize: '350px' });
+                    $("#fittext3").fitText(1.1, { minFontSize: '50px', maxFontSize: '75px' });
+                </script>
+            </body>
+        </html>
+    ]]>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libro xmlns:xsi="http://www.w3.org/2001/XMlSchema-instance" xsi:noNamespaceSchemaLocation="ejemplo.xsd">
+    <titulo>XML práctico</titulo>
+    <autor>Sebastien lecomte</autor>
+    <autor>Andrew Watt</autor>
+    <editorial>Ediciones ENI</editorial>
+</libro>

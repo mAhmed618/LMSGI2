@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ciudades>
+<Ciudades>
+    <Ciudad HusoHorario="UTC+1">
+        <Nombre>Ceuta</Nombre>
+        <Pais Continente="Africa">España</Pais>
+        <Elevacion>10m</Elevacion>
+    </Ciudad>
+    <Ciudad HusoHorario="UTC+2">
+        <Nombre>Santorini</Nombre>
+        <Pais Continente="Europa">Grecia</Pais>
+        <Elevacion>260m</Elevacion>
+    </Ciudad>
+    <Ciudad HusoHorario="UTC+8">
+        <Nombre>Hong Kong</Nombre>
+        <Pais Continente="Asia">China</Pais>
+        <Elevacion>957m</Elevacion>
+    </Ciudad>
+    <Ciudad HusoHorario="UTC-6">
+        <Nombre>Guadalajara</Nombre>
+        <Pais Continente="América">México</Pais>
+        <Elevacion>1566m</Elevacion>
+    </Ciudad>
+    <Ciudad HusoHorario="UTC+1">
+        <Nombre>Casablanca</Nombre>
+        <Pais Continente="África">Marruecos</Pais>
+        <Elevacion>27m</Elevacion>
+    </Ciudad>
+</Ciudades>

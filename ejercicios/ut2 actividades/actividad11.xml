@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE muebles>
+<muebles xmlns:mesas="https://www.mejorqueikea.com/espaciodenombre/mesas" xmlns:sillas="https://www.mejorqueikea.com/espaciodenombre/sillas">
+    <mesas:mesa>
+        <mesas:nombre>Mesa de comedor</mesas:nombre>
+        <mesas:ancho>120</mesas:ancho>
+        <mesas:alto>80</mesas:alto>
+        <mesas:profundidad>120</mesas:profundidad>
+        <mesas:material>Madera</mesas:material>
+    </mesas:mesa>
+    <sillas:silla>
+        <sillas:nombre>Silla de cocina</sillas:nombre>
+        <sillas:ancho>40</sillas:ancho>
+        <sillas:alto>90</sillas:alto>
+        <sillas:profundidad>40</sillas:profundidad>
+        <sillas:material>Acero</sillas:material>
+    </sillas:silla>
+</muebles>

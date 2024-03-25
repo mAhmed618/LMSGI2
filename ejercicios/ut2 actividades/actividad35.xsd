@@ -1,0 +1,42 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    targetNamespace="http://example.com"
+    xmlns="http://example.com">
+    <xs:element name="usuarios">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="usuario" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="nombre" type="xs:string">
+                                <xs:annotation>
+                                    <xs:documentation>Nombre del usuario.</xs:documentation>
+                                </xs:annotation>
+                            </xs:element>
+                            <xs:element name="departamento" type="xs:string">
+                                <xs:annotation>
+                                    <xs:documentation>Departamento al que pertenece el usuario.</xs:documentation>
+                                </xs:annotation>
+                            </xs:element>
+                            <xs:element name="puntuación">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:integer">
+                                        <xs:minInclusive value="1"/>
+                                        <xs:maxInclusive value="10"/>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                                <xs:annotation>
+                                    <xs:documentation>Puntuación del usuario, debe estar entre 1 y 10.</xs:documentation>
+                                </xs:annotation>
+                            </xs:element>
+                            <xs:element name="estado" type="xs:string">
+                                <xs:annotation>
+                                    <xs:documentation>Estado del usuario (por ejemplo, conectado o desconectado).</xs:documentation>
+                                </xs:annotation>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

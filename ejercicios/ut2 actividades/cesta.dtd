@@ -1,0 +1,2 @@
+<!ELEMENT cesta (producto+)>
+<!ELEMENT producto (#PCDATA)>

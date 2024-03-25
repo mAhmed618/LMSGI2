@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<alumnos xmlns:xsi="http://ww.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="actividad31.xsd">
+    <alumno>
+        <nombre>Jose</nombre>
+        <apellidos>García González</apellidos>
+        <direccion>
+            <domicilio>Velarde 12</domicilio>
+            <codigo_postal>51001</codigo_postal>
+            <localidad>Ceuta</localidad>
+            <provincia>Ceuta</provincia>
+        </direccion>
+        <contactar>
+            <telf_casa>956523165</telf_casa>
+            <telf_movil>611233544</telf_movil>
+            <telf_trabajo>956847536</telf_trabajo>
+            <email>pepitoecifp.net</email>
+        </contactar>
+    </alumno>
+    <alumno>
+        <nombre>Aitana</nombre>
+        <apellidos>Ramirez Aguirre</apellidos>
+        <direccion>
+            <domicilio>Plaza Sin nombre, 25</domicilio>
+            <codigo_postal>51002</codigo_postal>
+            <localidad>Benzú</localidad>
+            <provincia>Ceuta</provincia>
+        </direccion>
+        <contactar>
+            <telf_casa>956132565</telf_casa>
+            <telf_movil>623863544</telf_movil>
+            <telf_trabajo>956557536</telf_trabajo>
+            <email>aitanaGcifp.net</email>
+        </contactar>
+    </alumno>
+</alumnos>

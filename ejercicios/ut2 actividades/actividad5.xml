@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE marcadores>
+<marcadores>
+    <marcador>
+        <nombre>MDN Web Docs</nombre>
+        <descripcion>Resources for Developers, by Developers</descripcion>
+        <url>https://developer.mozilla.org/es/</url>
+    </marcador>
+    <marcador>
+        <nombre>Lenguaje JavaScript</nombre>
+        <descripcion>JavaScript en Español</descripcion>
+        <url>https://lenguajejs.com/</url>
+    </marcador>
+    <marcador>
+        <nombre>W3Schools</nombre>
+        <descripcion>Learn to code</descripcion>
+        <url>https://www.w3schools.com</url>
+    </marcador>
+    <marcador>
+        <nombre>Wikipedia</nombre>
+        <descripcion>La enciclopedia libre</descripcion>
+        <url>https://es.wikipedia.org/</url>
+    </marcador>
+</marcadores>

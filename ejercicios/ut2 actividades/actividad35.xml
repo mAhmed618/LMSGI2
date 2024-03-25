@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usuarios xmlns:xs="http://wwmw.w3.0rg/2001/XMLSchema-instance"
+xs:noNamespaceSchemaLocation="actividad35.xsd">
+<usuario>
+<nombre>Peter Green</nombre>
+<departamento>Finanzas</departamento>
+<puntuación>5</puntuación>
+<estado>conectado</estado>
+</usuario>
+</usuarios>

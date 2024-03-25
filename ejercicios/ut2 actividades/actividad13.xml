@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE vehiculos [
+    <!ELEMENT vehiculos (vehiculo)>
+    <!ELEMENT vehiculo (marca, modelo, precio, numBastidor, matriculado)>
+    <!ELEMENT marca (#PCDATA)>
+    <!ELEMENT modelo (#PCDATA)>
+    <!ELEMENT precio (#PCDATA)>
+    <!ELEMENT numBastidor (#PCDATA)>
+    <!ELEMENT matriculado EMPTY>
+]>
+<vehiculos>
+    <vehiculo>
+        <marca>Audi</marca>
+        <modelo>A4</modelo>
+        <precio>30000</precio>
+        <numBastidor>123456789</numBastidor>
+        <matriculado/>
+    </vehiculo>
+</vehiculos>

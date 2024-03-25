@@ -1,0 +1,10 @@
+<!ELEMENT deportistas (f1|futbol|tenis)*>
+<!ELEMENT f1 (#PCDATA)>
+<!ATTLIST f1
+          pais (ESP | FRA | ITA | ALE) "ESP">
+<!ELEMENT tenis (#PCDATA)>
+<!ATTLIST tenis
+          pais (ESP | FRA | ITA | ALE) "ESP">
+<!ELEMENT futbol (#PCDATA)>
+<!ATTLIST futbol
+          pais (ESP | FRA | ITA | ALE) "ESP">

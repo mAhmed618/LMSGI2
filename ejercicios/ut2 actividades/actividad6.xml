@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE equipos>
+<equipos>
+    <equipo>
+        <nombre>f.c.barcelona</nombre>
+        <estadio>spotify Cam Nou</estadio>
+        <ciudad>barcelona</ciudad>
+        <entrenador nombre="xavi"></entrenador>
+        <jugadores>
+            <jugador posicion="dfc">
+                <nombre>Ronald</nombre>
+                <apellidos>Federico Araújo da Silva</apellidos>
+                <numero>4</numero>
+                <nacionalidad>uruguayo</nacionalidad>
+            </jugador>
+            <jugador posicion="mc">
+                <nombre>Pedro</nombre>
+                <apellidos>González López</apellidos>
+                <numero>8</numero>
+                <nacionalidad>español</nacionalidad>
+            </jugador>
+            <jugador posicion="mc">
+                <nombre>Frenkie</nombre>
+                <apellidos>de Jong</apellidos>
+                <numero>22</numero>
+                <nacionalidad>holandes</nacionalidad>
+            </jugador>
+        </jugadores>
+    </equipo>
+    <equipo>
+        <nombre>real madrid</nombre>
+        <estadio>santiago bernabeu</estadio>
+        <ciudad>madrid</ciudad>
+        <entrenador nombre="anchelotti"></entrenador>
+        <jugadores>
+            <jugador posicion="dfc">
+                <nombre>Éder</nombre>
+                <apellidos>Gabriel Militão Pinheiro</apellidos>
+                <numero>3</numero>
+                <nacionalidad>brasileño</nacionalidad>
+            </jugador>
+            <jugador posicion="mc">
+                <nombre>Federico</nombre>
+                <apellidos>Santiago Valverde Dipetta</apellidos>
+                <numero>15</numero>
+                <nacionalidad>uruguayo</nacionalidad>
+            </jugador>
+            <jugador posicion="ei">
+                <nombre>Vinícius</nombre>
+                <apellidos>José Paixão de Oliveira Júnior</apellidos>
+                <numero>7</numero>
+                <nacionalidad>brasileño</nacionalidad>
+            </jugador>
+        </jugadores>
+    </equipo>
+</equipos>
