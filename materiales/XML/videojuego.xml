@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<videojuegos>
+    <videojuego multijugador="si">
+        <titulo>FIFA 23</titulo>
+        <plataforma>PlayStation 5</plataforma>
+    </videojuego>
+    <videojuego multijugador="si">
+        <titulo>Fortnite</titulo>
+        <plataforma>XBox One</plataforma>
+    </videojuego>
+    <videojuego multijugador="no">
+        <titulo>Crash Bandicoot</titulo>
+        <plataforma>PSOne</plataforma>
+    </videojuego>
+</videojuegos>

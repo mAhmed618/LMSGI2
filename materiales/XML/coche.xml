@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<coche>
+    <tipodecoche>deportivo</tipodecoche> 
+    <marca>Audi</marca>
+    <modelo>A3 Sline</modelo>
+    <color>azulelectrico</color>
+</coche>
